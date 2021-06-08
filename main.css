@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar {
+    position: sticky;
+}
+
+.nav-items {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-items ul {
+    margin: 10px;
+    display: flex;
+    list-style: none;
+}
+
+.nav-links {
+    margin: 10px;
+    color: rgb(175, 175, 175);
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+
+.nav-links:hover {
+    color: white;
+}
+
+.nav-links:active {
+    color: white;
+}
+
+.nav-logo {
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+    font-family: 'Courgette', cursive;
+}
