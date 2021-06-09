@@ -64,6 +64,16 @@ header {
     margin-bottom: 20px;
 }
 
+.icons {
+    display: flex;
+    padding-right: 10px;
+}
+
+.fab {
+    height: 30px;
+    padding: 10px;
+}
+
 .previous {
     margin-bottom: 50px;
 }
@@ -87,6 +97,7 @@ input {
     border-radius: 5px;
     border-width: 1px;
     border-color: rgb(212, 212, 212);
+    outline: none;
     font-weight: bold;
     border-style: solid;
 }
@@ -114,6 +125,7 @@ footer {
 
 .footer-input {
     display: flex;
+    margin-bottom: 10px;
 }
 
 .footer-input input {
