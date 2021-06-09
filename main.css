@@ -4,6 +4,11 @@
     
 }
 
+nav {
+    border-style: solid;
+    border-color: rgb(58, 58, 58);
+    border-width: 1px;
+}
 
 .navbar {
     position: sticky;
@@ -54,8 +59,7 @@ header {
     background-size: 100% 130%;
     background-repeat: no-repeat;
     background-blend-mode: soft-light;
-    
-
+    height: 500px;
 }
 
 .header-image {
@@ -72,7 +76,6 @@ header {
 
 .header-text {
     padding: 20px;
-    margin-bottom: 100px;
     display: flex;
     flex-direction: column;
     justify-content: center;
