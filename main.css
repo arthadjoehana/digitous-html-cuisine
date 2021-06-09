@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    
 }
 
 
@@ -22,7 +23,7 @@
 
 .nav-links {
     margin: 10px;
-    color: rgb(175, 175, 175);
+    color: rgb(128, 128, 128);
     text-decoration: none;
     font-family: 'Oswald', sans-serif;
 }
@@ -41,4 +42,8 @@
     text-decoration: none;
     font-size: 2rem;
     font-family: 'Courgette', cursive;
+}
+
+.nav-logo:hover {
+    color: white;
 }
