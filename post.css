@@ -115,3 +115,26 @@ header {
 .reply img {
     opacity: 0.5;
 }
+
+.big-letter {
+    display: flex;
+}
+
+.row{
+    position: relative;
+
+}
+
+.post h5 {
+    margin-top: 10px;
+}
+
+.post-text span{
+    font-size: 3em;
+    margin: -25px;
+    padding-top: 5px;
+    color: grey;
+    margin-bottom: 10px;
+    display: block;
+    position: absolute;
+}
