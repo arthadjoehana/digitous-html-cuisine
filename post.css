@@ -1,0 +1,122 @@
+header {
+    background-image: url("./img/articles/suzette/suzette-header.jpg");
+}
+
+.post-title {
+    font-family: 'Courgette', cursive;
+}
+
+.post-text {
+    font-family: 'Oswald', sans-serif;
+}
+
+.post h2 {
+    margin-bottom: 10px;
+}
+
+.post h5 {
+    margin-bottom: 20px;
+}
+
+.intro {
+    display: flex;
+}
+
+.first-letter {
+    background-color: red;
+    font-size: 5rem;
+}
+
+.author {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.author img {
+    width: 100px;
+    height: 100px;
+    border-radius: 1000px;
+}
+
+.author-bio {
+    margin-left: 20px;
+}
+
+.author-bio h3 {
+    font-family: 'Courgette', cursive;
+}
+
+.author-bio h5 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.comment-form {
+    display: flex;
+    justify-content: center;
+}
+
+.comment-form form {
+    width: 500px;
+}
+
+.comment-form label {
+    font-family: 'Courgette', cursive;
+}
+
+.comment-form input {
+    font-family: 'Oswald', sans-serif;
+}
+
+.comment-input-text {
+    padding: 10px;
+    width: 100%;
+}
+
+.comment-form textarea {
+    height: 100px;
+}
+
+.comments-area {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.comments-area h3 {
+    font-family: 'Courgette', cursive;
+    margin-bottom: 20px;
+}
+
+.comment h4 {
+    font-family: 'Courgette', cursive;
+}
+
+.comment h5 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.comments {
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.comment-image {
+    height: 100px;
+    width: 100px;
+}
+
+.comment {
+    margin-left: 30px;
+}
+
+.reply {
+    margin-left: 120px;
+}
+
+.reply img {
+    opacity: 0.5;
+}
