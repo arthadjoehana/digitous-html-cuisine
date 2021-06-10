@@ -22,11 +22,6 @@ header {
     display: flex;
 }
 
-.first-letter {
-    background-color: red;
-    font-size: 5rem;
-}
-
 .author {
     display: flex;
     justify-content: center;
