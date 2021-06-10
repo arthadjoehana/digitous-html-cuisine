@@ -1,0 +1,44 @@
+header {
+    background-image: url("./img/recipes/paella/paella-header.jpg");
+}
+
+.recipe-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.recipe-title {
+    font-family: 'Courgette', cursive;
+}
+
+.recipe-title-2 {
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(187, 187, 187);
+    text-align: center;
+    padding: 10px 30px 10px 30px;
+}
+
+.recipe-ingredients span {
+    font-size: 1.2rem;
+    display: inline-block;
+    margin-bottom: 10px;
+    background-color: rgb(58, 58, 58);
+    border-radius: 1000px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    padding: 5px 15px 5px 15px;
+}
+
+.recipe-text {
+    margin-bottom: 20px;
+}
+
+.recipe-step-title {
+    font-family: 'Courgette', cursive;
+    font-weight: bold;
+}
+
+.recipe-step-text {
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 20px;
+}
