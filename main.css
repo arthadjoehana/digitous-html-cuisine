@@ -85,8 +85,6 @@ header {
     color: white;
 }
 
-
-
 main {
     margin-top: 50px;
     margin-bottom: 50px;
@@ -99,6 +97,16 @@ main {
 
 .fab {
     padding: 10px;
+}
+
+.previous-page {
+    display: flex;
+    justify-content: start;
+}
+
+.next-page {
+    display: flex;
+    justify-content: flex-end;
 }
 
 .change-page-link {
